@@ -1,0 +1,12 @@
+.text-field-form {
+  margin: 0.5rem 0 !important;
+}
+
+.exercise-form {
+  padding: 1rem;
+}
+
+.error-message {
+  color: #07c0b4 !important;
+  font-family: "Noto Sans JP", sans-serif;
+}

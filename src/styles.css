@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.page-container {
+  width: calc(100% - 300px);
+}
